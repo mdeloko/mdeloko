@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente não trabalho! Apenas estudo 🙂
-- 🌱 Estou aprendendo front-end (HTML, CSS e Javascript) e outras linguagens de back-end para uso geral e jogos (Python e Lua)
+- 🌱 Estou aprendendo front-end (HTML, CSS e Javascript/Typescript) e outras linguagens de back-end para uso geral e jogos (Python, NodeJS e Lua)
 - 😄 Pronomes: ele/dele
 ##
 [![mdeloko GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdeloko&count_private=true&show_icons=true&theme=apprentice)](https://github.com/mdeloko)
